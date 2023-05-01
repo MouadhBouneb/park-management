@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mouadh",
+    "password": "Mouadh123**",
+    "database": "parkmanagement",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "mouadh",
+    "password": "Mouadh123**",
+    "database": "parkmanagement",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "mouadh",
+    "password": "Mouadh123**",
+    "database": "parkmanagement",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
